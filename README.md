@@ -1,2 +1,7 @@
 # Rain_Gauge_Network_Design
-Daat to run the step 1 code is needed, it hasn't published yet
+Data is needed to run the code in step 1 of proposed algorithm.
+To run the ML models please install 
+              torch, 
+              botorch, 
+              gpytorch. and for post processing files 
+              numpy, pandas, matplotlib
